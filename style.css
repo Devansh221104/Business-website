@@ -1,0 +1,17 @@
+
+.IMAGE{
+    -ms-flex-item-align: center;
+    height: 600px;
+    width: 1500px;
+}
+.logo{
+    
+    height: 250px;
+    width: 250px;       
+     
+}
+.headding{
+    text-align: center;
+}
+
+
